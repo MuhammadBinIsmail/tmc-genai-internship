@@ -14,4 +14,6 @@ env/
 # OS
 .DS_Store
 
-accounts.json
+accounts.jsonproducts.csv
+products.json
+staging/
