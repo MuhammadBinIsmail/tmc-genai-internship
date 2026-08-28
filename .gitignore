@@ -17,3 +17,5 @@ env/
 accounts.jsonproducts.csv
 products.json
 staging/
+etl_data.db
+etl_pipeline.log
