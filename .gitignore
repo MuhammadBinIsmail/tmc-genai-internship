@@ -14,7 +14,9 @@ env/
 # OS
 .DS_Store
 
-accounts.jsonproducts.csv
+# Runtime-generated data
+accounts.json
+products.csv
 products.json
 staging/
 etl_data.db
