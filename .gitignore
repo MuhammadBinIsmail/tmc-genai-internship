@@ -20,4 +20,4 @@ products.csv
 products.json
 staging/
 etl_data.db
-etl_pipeline.log
+etl_pipeline.logcapstone_pipeline.log
