@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://scrapeme.live/shop/"
-MAX_PAGES = 5  # bump this up to scrape more products; 48 = full catalog (755 items)
+MAX_PAGES = 48  # bump this up to scrape more products; 48 = full catalog (755 items)
 REQUEST_DELAY_RANGE = (1, 3)  # seconds, randomized delay between requests
 
 HEADERS = {
